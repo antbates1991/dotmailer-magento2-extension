@@ -9,7 +9,7 @@ Full support documentation and setup guides available here - https://support.dot
 
 =======
 ## Contribution
-SL TEST
+SL TEST2
 You are welcome to contribute to dotmailer for Magento! You can either:
 - Report a bug: create a [GitHub issue](https://github.com/dotmailer/dotmailer-magento2-extension/issues/new) including description, repro steps, Magento and extension version numbers
 - Fix a bug: please clone and use our [Testing branch](https://github.com/dotmailer/dotmailer-magento2-extension/tree/testing) to submit your Pull Request
