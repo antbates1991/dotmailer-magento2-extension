@@ -1,4 +1,4 @@
- dotmailer for Magento 2
+﻿ dotmailer for Magento 2
  ======
  
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.md)
@@ -9,6 +9,8 @@ Full support documentation and setup guides available here - https://support.dot
 
 =======
 ## Contribution
+
+SL TEST
 
 You are welcome to contribute to dotmailer for Magento! You can either:
 - Report a bug: create a [GitHub issue](https://github.com/dotmailer/dotmailer-magento2-extension/issues/new) including description, repro steps, Magento and extension version numbers
